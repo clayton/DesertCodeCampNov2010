@@ -1,0 +1,10 @@
+h2. The Developer's Guide to Scrum
+
+*Material*
+* Presentation Slides
+
+h2. Full Text Searching in Rails
+
+*Material*
+* Presentation Slides
+* Example code: "Desert Code Camp Rails App":https://github.com/clayton/desert-code-camp
